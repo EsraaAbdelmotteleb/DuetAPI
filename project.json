@@ -9,7 +9,7 @@
       "eye_color": "blue",
       "birth_year": "19BBY",
       "gender": "male",
-      "image": "https://picsum.photos/id/1/320/240"
+      "image": "https://images.hdqwalls.com/download/luke-skywalker-star-wars-vu-320x240.jpg"
     },
     {
       "name": "C-3PO",
@@ -20,7 +20,7 @@
       "eye_color": "yellow",
       "birth_year": "112BBY",
       "gender": "n/a",
-      "image": "https://picsum.photos/id/20/320/240"
+      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https://static.onecms.io/wp-content/uploads/sites/6/2012/01/star-wars-c3po-r2d2_320.jpg"
     },
     {
       "name": "R2-D2",
@@ -31,7 +31,7 @@
       "eye_color": "red",
       "birth_year": "33BBY",
       "gender": "n/a",
-      "image": "https://picsum.photos/id/30/320/240"
+      "image": "http://wallpapers.net/web/wallpapers/star-wars-r2d2-hd-wallpaper/320x240.jpg"
     },
     {
       "name": "Darth Vader",
@@ -42,7 +42,7 @@
       "eye_color": "yellow",
       "birth_year": "41.9BBY",
       "gender": "male",
-      "image": "https://picsum.photos/id/40/320/240"
+      "image": "https://images.hdqwalls.com/download/2020-4k-darth-vader-pz-320x240.jpg"
     },
     {
       "name": "Leia Organa",
@@ -53,7 +53,7 @@
       "eye_color": "brown",
       "birth_year": "19BBY",
       "gender": "female",
-      "image": "https://picsum.photos/id/50/320/240"
+      "image": "https://i.pinimg.com/564x/29/e7/44/29e74452966b404bad72a9cd7cd67302.jpg"
     },
     {
       "name": "Owen Lars",
